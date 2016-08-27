@@ -94,6 +94,7 @@ define([
     './platform/search/bundle',
     './platform/status/bundle',
     './platform/commonUI/regions/bundle',
+
     './floorbot/bundle',
 ], function (Main, legacyRegistry) {
     return {
